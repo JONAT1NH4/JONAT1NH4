@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou o Pablo, mais conhecido como Jonas! 👋
 
-<!--
-**JONAT1NH4/JONAT1NH4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudante de Programação | Supervisor do servidor ArmaMC (Minecraft)**  
+IP: armamc.com
 
-Here are some ideas to get you started:
+Atualmente, estou aprendendo **JavaScript** e **Java**, e explorando o desenvolvimento de servidores Minecraft para melhorar a experiência dos jogadores e criar soluções inovadoras.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+- 🔧 Supervisor do **ArmaMC**, servidor de Minecraft com mais de 80.000 contas registradas.
+- 🌱 Estudando **JavaScript** e **Java**.
+- 💬 Focado em **desenvolvimento de servidores** e **plugins** para Minecraft.
+
+## 🛠️ Tecnologias
+- **Linguagens**: Java, JavaScript
+- **Ferramentas**: Spigot, Bukkit, Git, IntelliJ, VS Code
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonasking_&show_icons=true&hide=prs&count_private=true)
+
+## 🌍 Conecte-se comigo!
+- [LinkedIn](https://www.linkedin.com/in/jonat1nha)
+- [Twitter](https://twitter.com/jonat1nha)
+- [Email](mailto:contato@pablohenrique)
