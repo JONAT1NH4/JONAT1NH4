@@ -1,62 +1,35 @@
-<!DOCTYPE html>
-<html lang="pt-br">
+# Olá, eu sou o Pablo, mais conhecido como Jonas! 👋
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jonas King - Página Inicial</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
+**Estudante de Programação** | **Supervisor do servidor ArmaMC** (Minecraft)  
+IP: [armamc.com](http://armamc.com)
 
-<body>
-    <header>
-        <div class="container">
-            <h1>Olá, eu sou o Pablo, mais conhecido como Jonas! 👋</h1>
-            <p><strong>Estudante de Programação</strong> | Supervisor do servidor <strong>ArmaMC</strong> (Minecraft)</p>
-            <p>IP: <a href="http://armamc.com" target="_blank">armamc.com</a></p>
-        </div>
-    </header>
+Atualmente, estou aprendendo **JavaScript** e **Java**, e explorando o desenvolvimento de servidores Minecraft para melhorar a experiência dos jogadores e criar soluções inovadoras.
 
-    <section class="about">
-        <div class="container">
-            <h2>Sobre mim</h2>
-            <p>Atualmente, estou aprendendo <strong>JavaScript</strong> e <strong>Java</strong>, e explorando o desenvolvimento de servidores Minecraft para melhorar a experiência dos jogadores e criar soluções inovadoras.</p>
-        </div>
-    </section>
+---
 
-    <section class="technologies">
-        <div class="container">
-            <h2>Tecnologias e Ferramentas</h2>
-            <ul>
-                <li><strong>Linguagens:</strong> Java, JavaScript</li>
-                <li><strong>Ferramentas:</strong> Spigot, Bukkit, Git, IntelliJ, VS Code</li>
-            </ul>
-        </div>
-    </section>
+## 🚀 Sobre mim
+- 🔧 **Supervisor do Armageddon** - Servidor de Minecraft com mais de 80.000 contas registradas.
+- 🌱 Estou estudando **JavaScript** e **Java** para aprimorar minhas habilidades de programação.
+- 🎮 Tenho interesse em **desenvolvimento de servidores**, **plugins** e **automação de Minecraft**.
 
-    <section class="github-stats">
-        <div class="container">
-            <h2>Estatísticas do GitHub</h2>
-            <img src="https://github-readme-stats.vercel.app/api?username=jonasking_&show_icons=true&hide=prs&count_private=true" alt="Estatísticas GitHub">
-        </div>
-    </section>
+---
 
-    <section class="connect">
-        <div class="container">
-            <h2>Vamos nos conectar!</h2>
-            <ul>
-                <li><a href="https://www.linkedin.com/in/jonat1nha" target="_blank">LinkedIn</a></li>
-                <li><a href="https://twitter.com/jonat1nha" target="_blank">Twitter</a></li>
-                <li><a href="mailto:contato@pablohenrique" target="_blank">Email</a></li>
-            </ul>
-        </div>
-    </section>
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens**: Java, JavaScript
+- **Ferramentas**: Spigot, Bukkit, Git, IntelliJ, VS Code
 
-    <footer>
-        <div class="container">
-            <p>Estou apenas começando, mas adoro aprender e crescer! Vamos fazer algo incrível juntos! 🚀</p>
-        </div>
-    </footer>
-</body>
+---
 
-</html>
+## 📊 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jonasking_&show_icons=true&hide=prs&count_private=true)
+
+---
+
+## 🌍 Vamos nos conectar!
+- [LinkedIn](https://www.linkedin.com/in/jonat1nha)
+- [Twitter](https://twitter.com/jonat1nha)
+- [Email](mailto:contato@pablohenrique)
+
+---
+
+**Estou apenas começando, mas adoro aprender e crescer! Vamos fazer algo incrível juntos! 🚀**
