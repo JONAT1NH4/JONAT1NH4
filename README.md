@@ -1,18 +1,45 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center">
+  <a href="https://github.com/jonasking_">
+    <img width="80%" alt="Hello, I'm Jonas. I manage ArmaMC and love programming!" src="https://your-image-link.com/header-image.png" />
+  </a>
+</p>
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+### Olá, eu sou o **Jonas**! 👋
 
-**About me**
+Sou um estudante de programação e **Supervisor do servidor ArmaMC (Minecraft)**. Estou aprendendo **JavaScript** e **Java**, explorando o desenvolvimento de servidores Minecraft para criar uma melhor experiência para os jogadores.
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+---
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+## 💼 Sobre mim
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- 🔧 **Supervisor do Armageddon** - Servidor de Minecraft com mais de **80.000 contas** registradas.
+- 💻 Aprendendo **JavaScript** e **Java** para aprimorar minhas habilidades de programação.
+- 🎮 Entusiasta de **plugins e automação de Minecraft**.
+- 💬 Pergunte-me sobre **desenvolvimento de servidores**, **JavaScript** ou **Java**!
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+---
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <a href="https://github.com/jonasking_">
+    <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=jonasking_&show_icons=true&hide=prs&count_private=true&theme=gruvbox&hide_border=true" alt="Jonas' GitHub Stats" />
+  </a>
+  <a href="https://github.com/jonasking_">
+    <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasking_&layout=compact&theme=gruvbox&hide_border=true" alt="Jonas' Most Used Languages" />
+  </a>
+</p>
+
+---
+
+## 🌍 Vamos nos conectar!
+
+- [LinkedIn](https://www.linkedin.com/in/jonat1nha)
+- [Twitter](https://twitter.com/jonat1nha)
+- [Email](mailto:contato@pablohenrique)
+
+---
+
+**Estou apenas começando, mas adoro aprender e crescer! Vamos fazer algo incrível juntos! 🚀**
