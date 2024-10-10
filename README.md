@@ -6,14 +6,9 @@ Estou aprendendo **JavaScript** e **Java**, explorando o desenvolvimento de serv
 
 ---
 
-## 💼 Sobre mim
+## Estou aprendendo
 
-- 🔧 **Supervisor do Armageddon** - Servidor de Minecraft com mais de **80.000 contas** registradas.
-- 💻 Aprendendo **JavaScript** e **Java** para aprimorar minhas habilidades de programação.
-- 🎮 Entusiasta de **plugins e automação de Minecraft**.
-- 💬 Pergunte-me sobre **desenvolvimento de servidores**, **JavaScript** ou **Java**!
-
----
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
 
 **Estou apenas começando, mas adoro aprender e crescer! Vamos fazer algo incrível juntos! 🚀**
