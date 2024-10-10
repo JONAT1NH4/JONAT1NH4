@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/jonasking_">
-    <img width="80%" alt="Hello, I'm Jonas. I manage ArmaMC and love programming!" src="[https://your-image-link.com/header-image.png](https://avatars.githubusercontent.com/u/52539911?s=280&v=4)" />
+    <img width="80%" alt="Hello, I'm Jonas. I manage ArmaMC and love programming!" src="[[https://your-image-link.com/header-image.png](https://avatars.githubusercontent.com/u/52539911?s=280&v=4)](https://avatars.githubusercontent.com/u/52539911?s=280&v=4)" />
   </a>
 </p>
 
