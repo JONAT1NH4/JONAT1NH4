@@ -13,25 +13,3 @@ Sou um estudante de programação, aprendendo JavaScript e Java. Atualmente, est
 </div>
 
 ---
-
-## Contatos:
-
-<div>
-  <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
-  </a>
-  <a href="mailto:contato@seu-usuário-aqui">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>   
-</div>
-
----
